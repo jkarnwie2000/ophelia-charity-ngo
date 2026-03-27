@@ -320,6 +320,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   position: relative;
   text-transform: uppercase;
   text-align: center;
+  margin-top: 32px;
   font-size:24px;
   color: #282828;
   font-weight:700;
