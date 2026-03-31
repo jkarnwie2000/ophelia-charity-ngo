@@ -319,12 +319,11 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 .section-title h1 {
   position: relative;
   text-transform: uppercase;
-  text-align: center;
-  margin-top: 32px;
-  font-size:24px;
+  font-size: 32px;
   color: #282828;
-  font-weight:700;
-  margin-bottom: 12px;
+  font-weight: 700;
+  margin-top: 18px;
+  margin-bottom: 18px;
 }
 .section-title h1:after {
     position: absolute;
@@ -340,7 +339,6 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   color:#ff2e3d;
 }
 .section-title p{
-
   max-width:360px;
   text-align: center;
   align-items: center;
